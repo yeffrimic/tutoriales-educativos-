@@ -1,0 +1,120 @@
+LISTA DE MATERIALES — SCRIBBLEBOT
+==================================
+
+MATERIALES PRINCIPALES
+-----------------------
+
+1. Vaso de plástico desechable
+   - Tamaño: mediano (250–400 ml)
+   - Material: plástico rígido (no espuma/unicel)
+   - Alternativas: vaso de yogur, envase de crema, taza pequeña de plástico
+   - Fuente: cocina, supermercado (reutilizado)
+   - Costo: Q0 (reciclado)
+
+2. Motor de vibración
+   - Tipo: motor DC de vibración (eccentric rotating mass)
+   - Voltaje: 1.5V–3V (batería AA funciona)
+   - Fuente: celular viejo, control de videojuego viejo, juguete eléctrico
+   - Alternativa: motor DC pequeño con peso pegado en el eje
+   - Costo: Q0 (desmontado de aparato viejo)
+
+3. Batería AA (1.5V)
+   - Cantidad: 1 (o 2 en serie para más potencia)
+   - Alternativas: batería AAA, pila 9V (reduce tiempo de vida)
+   - Fuente: cualquier tienda, supermercado
+   - Costo: Q2–5
+
+4. Marcadores de colores (3 unidades)
+   - Tipo: marcadores de punta media (no muy finos, no muy gruesos)
+   - Colores recomendados: 3 colores diferentes para ver capas
+   - Alternativas: bolígrafos, lápices, crayones
+   - Fuente: papelería, casa
+   - Costo: Q5–10
+
+5. Clips de oficina medianos (3–4 unidades)
+   - Tamaño: clips estándar de 32mm o 50mm
+   - Alternativas: cinta adhesiva fuerte, velcro, bandas elásticas
+   - Fuente: papelería, oficina
+   - Costo: Q1–2
+
+6. Cinta adhesiva
+   - Tipo: cinta scotch o masking tape
+   - Alternativa: pegamento caliente (con pistola)
+   - Fuente: casa, papelería
+   - Costo: Q0 (si ya tienes)
+
+7. Papel (varias hojas)
+   - Tipo: papel bond, cartulina, periódico
+   - Tamaño recomendado: carta o doble carta
+   - Cantidad: 5–10 hojas por sesión (se usan rápido)
+   - Fuente: casa, oficina
+   - Costo: Q0 (reutiliza papel ya usado por un lado)
+
+
+MATERIALES OPCIONALES
+---------------------
+
+8. Cables de cobre cortos (10–20 cm)
+   - Para conectar motor a batería sin sostener
+   - Fuente: cable de audífonos viejo, cable eléctrico delgado
+   - Costo: Q0 (reciclado)
+
+9. Interruptor pequeño (switch)
+   - Para encender/apagar sin desconectar
+   - Fuente: papelería técnica, ferretería eléctrica
+   - Costo: Q3–5
+
+10. Pegamento caliente (hot glue)
+    - Para sujetar motor más firmemente
+    - Alternativa: cinta adhesiva doble cara
+    - Costo: Q5–15 (pistola + cartuchos)
+
+11. Agua
+    - Para el experimento de variación de peso
+    - Llenar el vaso parcialmente
+    - Costo: Q0
+
+
+HERRAMIENTAS (no materiales, pero útiles)
+------------------------------------------
+
+- Tijeras (para cortar cinta o cables)
+- Regla (para medir posición del motor)
+- Cámara/teléfono (para fotografiar patrones)
+- Plumón para marcar variaciones en el papel
+
+
+RESUMEN DE COSTO
+-----------------
+
+| Escenario          | Costo estimado |
+|--------------------|----------------|
+| Con materiales en casa | Q0         |
+| Comprando solo batería | Q2–5       |
+| Comprando todo nuevo   | Q15–25     |
+
+Nota: El objetivo es REUTILIZAR. Antes de comprar, busca en casa:
+celulares viejos (motor), vasos desechables, marcadores gastados
+(pero con tinta), clips de documentos viejos.
+
+
+CÓMO CONSEGUIR EL MOTOR (la parte más difícil)
+-----------------------------------------------
+
+Opción A — Celular viejo:
+  Abre la tapa trasera. El motor de vibración es un cilindro pequeño
+  (aprox. 1cm x 0.5cm) con dos cables soldados.
+
+Opción B — Control de videojuegos viejo:
+  Los controles de PS/Xbox/Nintendo tienen 1–2 motores de vibración.
+  Se desmontan con destornillador.
+
+Opción C — Juguete eléctrico:
+  Muchos juguetes pequeños tienen motores DC aprovechables.
+
+Opción D — Comprar nuevo:
+  "Motor de vibración DC 3V" en tiendas de electrónica.
+  Costo: Q10–20.
+
+Si el motor tiene 4+ cables, usa solo los 2 que hacen vibrar
+(prueba hasta encontrar el par correcto).
